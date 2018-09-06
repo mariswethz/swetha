@@ -1,0 +1,9 @@
+1.first we created the github account.
+2.then opened the terminal .
+3.then started with the pwd and then mkdir with our name .
+4.then ls to check the files available .
+5.ls followed by man to check th manual .
+6.then just checked for the other commands using ls(space)a command .
+7.then the editor as sublime as $ subl and press enter 
+8.then you get the text editor then type as print ("").
+9.then start the first project. 
